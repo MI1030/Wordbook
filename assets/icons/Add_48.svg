@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Add_48</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 4663 3252.123 4663 3252.123 0 0 0"></polygon>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-354.000000, -141.000000)">
+            <g>
+                <g transform="translate(0.000000, 1.000000)">
+                    <polygon id="Fill-125" fill="#000000" points="376.1208 176 378.1208 176 378.1208 164 390.1208 164 390.1208 162 378.1208 162 378.1208 150 376.1208 150 376.1208 162 364.1208 162 364.1208 164 376.1208 164"></polygon>
+                    <path d="M377.6208,142 C389.4758,142 399.1208,151.645 399.1208,163.5 C399.1208,175.355 389.4758,185 377.6208,185 C365.7658,185 356.1208,175.355 356.1208,163.5 C356.1208,151.645 365.7658,142 377.6208,142 M377.6208,187 C390.5998,187 401.1208,176.479 401.1208,163.5 C401.1208,150.521 390.5998,140 377.6208,140 C364.6418,140 354.1208,150.521 354.1208,163.5 C354.1208,176.479 364.6418,187 377.6208,187" id="Fill-127" fill="#000000"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g></g>
+                </g>
+            </g>
+            <g transform="translate(210.000000, 1.000000)"></g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,557 @@
+{
+  "@@last_modified": "2019-07-19T17:42:34.915972",
+  "title": "单词本",
+  "@title": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "start": "Start",
+  "@start": {
+    "description": "Start review",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewTask": "Review Task",
+  "@reviewTask": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "memberDay": "the {count} day",
+  "@memberDay": {
+    "type": "text",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "reviewedXwords": "Reviewd {count} words",
+  "@reviewedXwords": {
+    "type": "text",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "add": "add",
+  "@add": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dictionary": "dictionary",
+  "@dictionary": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "guest": "guest",
+  "@guest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "review": "review",
+  "@review": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myWordList": "myWordList",
+  "@myWordList": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "word": "Word",
+  "@word": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phrase": "Phrase",
+  "@phrase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "article": "Article",
+  "@article": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "todayLearn": "todayLearn",
+  "@todayLearn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalLearn": "totalLearn",
+  "@totalLearn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chineseDefinition": "Chinese Definition",
+  "@chineseDefinition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "englishDefinition": "English Definition",
+  "@englishDefinition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tense": "Tense",
+  "@tense": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exampleSentences": "Example Sentences",
+  "@exampleSentences": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addToNotes": "Add to Notes",
+  "@addToNotes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank0": "Unlearn",
+  "@learnRank0": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank1": "Learning",
+  "@learnRank1": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank2": "Learning",
+  "@learnRank2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank3": "Almost",
+  "@learnRank3": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank4": "Finished",
+  "@learnRank4": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank5": "Known",
+  "@learnRank5": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRankAll": "All",
+  "@learnRankAll": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRankIgnore": "Ignore",
+  "@learnRankIgnore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRankEmphasis": "Emphasis",
+  "@learnRankEmphasis": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRankUnknown": "Unknown",
+  "@learnRankUnknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "prepareDictionary": "Preparing dictionary",
+  "@prepareDictionary": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signup": "Sign up",
+  "@signup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "visitor": "Visitor",
+  "@visitor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAddress": "Email Address",
+  "@emailAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "username": "Username",
+  "@username": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "captcha": "Captcha",
+  "@captcha": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ticket": "Ticket",
+  "@ticket": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh": "Refresh",
+  "@refresh": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreement": "Agreement",
+  "@agreement": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "switchTo": "Switch to {title}",
+  "@switchTo": {
+    "type": "text",
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "emailInvalid": "Please enter a valid email",
+  "@emailInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordInvalid": "Please enter a password whithin 6-16 characters",
+  "@passwordInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPasswordInvalid": "Confirm Password Invalid",
+  "@confirmPasswordInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "captchaInvalid": "Captcha can not be empty.",
+  "@captchaInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ticketInvalid": "Ticket can not be empty.",
+  "@ticketInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "usernameInvalid": "User name invalid",
+  "@usernameInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "secondCount": "{howMany,plural, =0{}=1{1 Second}other{{howMany} Seconds}}",
+  "@secondCount": {
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "hourCount": "{howMany,plural, =0{}=1{1 Hour}other{{howMany} Hours}}",
+  "@hourCount": {
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "minuteCount": "{howMany,plural, =0{}=1{1 Minute}other{{howMany} Minutes}}",
+  "@minuteCount": {
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "dayCount": "{howMany,plural, =0{}=1{1 Day}other{{howMany} Days}}",
+  "@dayCount": {
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "minute": "Minute",
+  "@minute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hour": "Hour",
+  "@hour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unauthenticatedTitle": "Using as guest",
+  "@unauthenticatedTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unauthenticatedDesc": "Become a registered user, the learning records will automatically sync to the cloud, truly learn anytime, anywhere, even if the replacement of equipment need not worry about data loss",
+  "@unauthenticatedDesc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "justLearned": "Just learned",
+  "@justLearned": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ago": "ago",
+  "@ago": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finishReview": "You finished all the contents you selected for this turn.",
+  "@finishReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAnswer": "Show answer",
+  "@showAnswer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Next",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveRest": "Have a rest",
+  "@haveRest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noReviewTask": "There is no review task.",
+  "@noReviewTask": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchDictAddToVocab": "Search Word",
+  "@searchDictAddToVocab": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "list": "List",
+  "@list": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statistics": "Statistic",
+  "@statistics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cloudBackup": "Cloud Backup",
+  "@cloudBackup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedback": "Feedback",
+  "@feedback": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackBody": "请告诉我们您的意见和想法。<br>您的参与会让『{appName}』越来越好！<br><br>",
+  "@feedbackBody": {
+    "type": "text",
+    "placeholders": {
+      "appName": {}
+    }
+  },
+  "version": "Version",
+  "@version": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login_signup": "Sign in/up",
+  "@login_signup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "takePhoto": "Take Photo",
+  "@takePhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "album": "album",
+  "@album": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rating": "rating",
+  "@rating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "edit",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePassword": "Change Password",
+  "@changePassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "Forgot Password",
+  "@forgotPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "achievements": "Achievements",
+  "@achievements": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastest30Days": "Lastest 30 Days",
+  "@lastest30Days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneYear": "One Year",
+  "@oneYear": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noResult": "No result, tapping here to add to word book",
+  "@noResult": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearHistory": "Clear History",
+  "@clearHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputWordHere": "Input word here",
+  "@inputWordHere": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveSucceeded": "Save succeeded.",
+  "@saveSucceeded": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cannotEmpty": " can not be empty.",
+  "@cannotEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noNeedSave": "There is no change, and does not need save.",
+  "@noNeedSave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveOrNot": "Save or not?",
+  "@saveOrNot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "Category",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordSucceed": "Reset password succeed. Please login.",
+  "@resetPasswordSucceed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "know": "Know",
+  "@know": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgot": "Forgot",
+  "@forgot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rememberAnswer": "Please remember the answer.",
+  "@rememberAnswer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tapBlankToShowAnswer": "Tap on the blank to display the answer.",
+  "@tapBlankToShowAnswer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeOrNot": "Remove this entry from the wordbook?",
+  "@removeOrNot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskCompleted": "The review tasks are all completed.",
+  "@taskCompleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "backspace": "Backspace",
+  "@backspace": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "right": "Right",
+  "@right": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrong": "Wrong",
+  "@wrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "familarity": "Familarity",
+  "@familarity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastTime": "Last",
+  "@lastTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kk": "kk",
+  "@kk": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

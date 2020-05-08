@@ -1,0 +1,558 @@
+{
+  "@@locale": "zh",
+  "@@last_modified": "2019-06-28T16:09:44.910937",
+  "title": "单词本",
+  "@title": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "start": "开始",
+  "@start": {
+    "description": "Start review",
+    "type": "text",
+    "placeholders": {}
+  },  
+  "reviewTask": "复习任务",
+  "@reviewTask": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "memberDay": "第{count}天",
+  "@memberDay": {
+    "type": "text",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "reviewedXwords": "本次复习列表 ({count})",
+  "@reviewedXwords": {
+    "type": "text",
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "add": "添加",
+  "@add": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dictionary": "词典",
+  "@dictionary": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "guest": "访客",
+  "@guest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "review": "复习",
+  "@review": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myWordList": "单词本",
+  "@myWordList": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "word": "单词",
+  "@word": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phrase": "句子",
+  "@phrase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "article": "文章",
+  "@article": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "todayLearn": "今日",
+  "@todayLearn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalLearn": "累计",
+  "@totalLearn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chineseDefinition": "中文解释",
+  "@chineseDefinition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "englishDefinition": "英文解释",
+  "@englishDefinition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tense": "时态",
+  "@tense": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "exampleSentences": "例句",
+  "@exampleSentences": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addToNotes": "加入单词本",
+  "@addToNotes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank0": "初学乍练",
+  "@learnRank0": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank1": "略知一二",
+  "@learnRank1": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank2": "半生不熟",
+  "@learnRank2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank3": "渐入佳境",
+  "@learnRank3": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank4": "驾轻就熟",
+  "@learnRank4": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRank5": "心领神会",
+  "@learnRank5": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRankAll": "全部",
+  "@learnRankAll": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRankIgnore": "忽略",
+  "@learnRankIgnore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRankEmphasis": "难点",
+  "@learnRankEmphasis": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "learnRankUnknown": "未知",
+  "@learnRankUnknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "prepareDictionary": "准备词典",
+  "@prepareDictionary": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signup": "注册",
+  "@signup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "登录",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "visitor": "访客",
+  "@visitor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAddress": "邮件地址",
+  "@emailAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "username": "用户名",
+  "@username": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "captcha": "验证码",
+  "@captcha": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "密码",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "确认密码",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPassword": "新密码",
+  "@newPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ticket": "邮件验证码",
+  "@ticket": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh": "刷新",
+  "@refresh": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "agreement": "服务条款",
+  "@agreement": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "发送",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "switchTo": "切换到{title}",
+  "@switchTo": {
+    "type": "text",
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "emailInvalid": "请输入合法的邮件地址",
+  "@emailInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordInvalid": "请输入6位以上,16位以下的密码。",
+  "@passwordInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPasswordInvalid": "两次输入的密码不一致。",
+  "@confirmPasswordInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "captchaInvalid": "请输入验证码",
+  "@captchaInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ticketInvalid": "请输入验证码",
+  "@ticketInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "usernameInvalid": "用户名不合法",
+  "@usernameInvalid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "secondCount": "{howMany,plural, =0{}=1{1秒}other{{howMany}秒}}",
+  "@secondCount": {
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "hourCount": "{howMany,plural, =0{}=1{1小时}other{{howMany}小时}}",
+  "@hourCount": {
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "minuteCount": "{howMany,plural, =0{}=1{1分}other{{howMany}分}}",
+  "@minuteCount": {
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "dayCount": "{howMany,plural, =0{}=1{1天}other{{howMany}天}}",
+  "@dayCount": {
+    "type": "text",
+    "placeholders": {
+      "howMany": {}
+    }
+  },
+  "minute": "分",
+  "@minute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "hour": "小时",
+  "@hour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unauthenticatedTitle": "正在以访客身份使用",
+  "@unauthenticatedTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unauthenticatedDesc": "成为注册用户，学习记录将自动同步到云端，真正做到随时随地学习，即使更换设备也无需担心数据丢失。",
+  "@unauthenticatedDesc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "justLearned": "刚学过",
+  "@justLearned": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ago": "前",
+  "@ago": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "finishReview": "恭喜，恭喜，复习完啦！",
+  "@finishReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showAnswer": "显示答案",
+  "@showAnswer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "下一个",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "设置",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveRest": "为达到最佳学习效果，请休息一下。",
+  "@haveRest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noReviewTask": "没有复习任务",
+  "@noReviewTask": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchDictAddToVocab": "查询单词 - 加入单词本",
+  "@searchDictAddToVocab": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "list": "列表",
+  "@list": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statistics": "统计",
+  "@statistics": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cloudBackup": "云备份",
+  "@cloudBackup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedback": "问题反馈",
+  "@feedback": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackBody": "请告诉我们您的意见和想法。<br>您的参与会让『{appName}』越来越好！<br><br>",
+  "@feedbackBody": {
+    "type": "text",
+    "placeholders": {
+      "appName": {}
+    }
+  },
+  "version": "版本",
+  "@version": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "登出",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login_signup": "登录/注册",
+  "@login_signup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "takePhoto": "拍照",
+  "@takePhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "album": "从相册选择",
+  "@album": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rating": "评价",
+  "@rating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "编辑",
+  "@edit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePassword": "更改密码",
+  "@changePassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "忘记密码",
+  "@forgotPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "achievements": "成绩汇总",
+  "@achievements": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastest30Days": "最近30天",
+  "@lastest30Days": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneYear": "最近12个月",
+  "@oneYear": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noResult": "没有查到，可点击此处加入单词本",
+  "@noResult": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "clearHistory": "清除历史",
+  "@clearHistory": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputWordHere": "请输入单词、短语",
+  "@inputWordHere": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveSucceeded": "保存成功。",
+  "@saveSucceeded": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cannotEmpty": "不能为空。",
+  "@cannotEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noNeedSave": "没有更改，不需要保存。",
+  "@noNeedSave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveOrNot": "是否保存？",
+  "@saveOrNot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "分类",
+  "@category": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "重置密码",
+  "@resetPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordSucceed": "重制密码成功，请重新登录。",
+  "@resetPasswordSucceed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "know": "记得",
+  "@know": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgot": "忘了",
+  "@forgot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rememberAnswer": "问答题，请回忆答案",
+  "@rememberAnswer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tapBlankToShowAnswer": "点击空白处，显示答案",
+  "@tapBlankToShowAnswer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeOrNot": "从单词本删除这个条目？",
+  "@removeOrNot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskCompleted": "复习任务都完成了。",
+  "@taskCompleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "backspace": "退 格",
+  "@backspace": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "right": "正确",
+  "@right": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "wrong": "错误",
+  "@wrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "familarity": "熟悉度",
+  "@familarity": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastTime": "上次学习",
+  "@lastTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kk": "kk",
+  "@kk": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
